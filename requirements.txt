@@ -1,0 +1,13 @@
+annotated-types==0.6.0
+certifi==2023.7.22
+charset-normalizer==3.3.1 
+more-itertools==9.1.0
+prometheus-client==0.17.1
+pydantic==2.4.2 # data types
+pydantic_core==2.10.1
+PyYAML==6.0.1
+requests==2.31.0
+tenacity==8.2.3 # retry
+typer==0.9.0 # cli
+typing_extensions==4.8.0 # data types
+urllib3==2.0.7

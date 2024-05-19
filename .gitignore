@@ -1,0 +1,6 @@
+misc.py
+../__pycache__
+service/__pycache__
+venv/
+keys.txt
+.DS_Store
